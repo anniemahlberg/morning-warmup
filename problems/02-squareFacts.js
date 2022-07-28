@@ -4,12 +4,12 @@
  * 2. The perimiter of a square is equal 4 times the length of its side.
  */
 
-function area() {
-  //write code here
+function area(n) {
+  return n * n;
 }
 
-function perimeter() {
-  //write code here
+function perimeter(n) {
+  return 4 * n;
 }
 
 // do not touch this export
